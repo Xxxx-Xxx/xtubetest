@@ -1,4 +1,4 @@
-package org.al.home.gmailtest.framework.utility;
+package org.al.home.gmailtest.framework.util;
 
 import java.util.concurrent.TimeUnit;
 

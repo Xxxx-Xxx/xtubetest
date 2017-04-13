@@ -1,12 +1,12 @@
-package org.al.home.gmailtest.framework.utility;
+package org.al.home.gmailtest.framework.util;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import static org.al.home.gmailtest.framework.utility.DriverTimeouts.IMPLICIT_WAIT;
-import static org.al.home.gmailtest.framework.utility.DriverTimeouts.PAGE_LOAD;
+import static org.al.home.gmailtest.framework.util.DriverTimeouts.IMPLICIT_WAIT;
+import static org.al.home.gmailtest.framework.util.DriverTimeouts.PAGE_LOAD;
 
 import java.util.HashMap;
 
