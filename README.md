@@ -1,7 +1,2 @@
-Project skeleton. Based on:
- 
- *Maven
- *Selenium WebDriver
- *TestNG
- *Hamcrest
- *Lomboc
+Project skeleton. Based on: 
+ Maven, Selenium WebDriver 2x, TestNG, Hamcrest, Lomboc
